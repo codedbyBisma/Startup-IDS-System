@@ -80,6 +80,9 @@ Phase 1:  Suricata engine running
 
 ![image alt](https://github.com/codedbyBisma/Startup-IDS-System/blob/ad43ced1b2b1b266c67665c799594fbf7f275009/suricata%20test%20success.png)
 
+![image alt](<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/60cac90b-1891-41a9-8b17-ec52d53b81a7" />
+)
+
 , live alertsPhase 2Logs sent to Firebase cloudPhase 3Web dashboard displaying alerts
 
 Use Cases
